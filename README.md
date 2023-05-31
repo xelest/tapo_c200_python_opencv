@@ -1,9 +1,9 @@
 # Using Tapo C200 TP Link Camera OpenCV Script Documentation
-### Introduction
+#### Introduction
 
 This documentation provides a guide on how to use the Tapo C200 TP Link camera with OpenCV. The script connects to the camera using an RTSP link and captures video frames for further processing or display.
 
-### Prerequisites
+#### Prerequisites
 
 To use this script, ensure that you have the following:
 
@@ -11,7 +11,7 @@ To use this script, ensure that you have the following:
 + Python 3 installed
 + OpenCV library installed (pip install opencv-python)
 
-### Usage
+#### Usage
 1. Set up camera connection details:
 ```
 ip_address = '192.168.0.XX'  # Replace with the IP address of your camera
@@ -49,7 +49,20 @@ rtsp_url = url_640x480
 
 ````
 
-### Conclusion
+#### Conclusion
 This script provides a basic implementation to connect to a Tapo C200 TP Link camera using an RTSP link and utilize the video feed with OpenCV. Feel free to modify the configuration and adapt it to your specific use case.
 
 Please note that this script assumes a working network connection to the Tapo C200 camera and proper configuration of the camera's IP address, port, username, and password.
+
+#### Resources & References
+https://www.tp-link.com/us/support/faq/2680/
+
+https://www.ispyconnect.com/
+
+https://www.ispyconnect.com/camera/tp-link
+
+https://programtalk.com/vs4/python/JurajNyiri/pytapo/
+
+
+#### How to Setup Tapo Smart Home WiFi Camera C200
+"https://www.youtube.com/watch?v=ozBOifbkqGk"
