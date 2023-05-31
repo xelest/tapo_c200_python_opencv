@@ -55,7 +55,11 @@ This script provides a basic implementation to connect to a Tapo C200 TP Link ca
 Please note that this script assumes a working network connection to the Tapo C200 camera and proper configuration of the camera's IP address, port, username, and password.
 
 #### Resources & References
+This section provides resources used in the discovery phase of the script in attempt to make the video feed work for python open cv.
+
 https://www.tp-link.com/us/support/faq/2680/
+
+https://helpdesk.cctvdiscover.com/network/rtsp_stream.html
 
 https://www.ispyconnect.com/
 
