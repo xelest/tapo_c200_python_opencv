@@ -3,6 +3,9 @@
 
 This documentation provides a guide on how to use the Tapo C200 TP Link camera with OpenCV. The script connects to the camera using an RTSP link and captures video frames for further processing or display.
 
+### Youtube
+https://www.youtube.com/watch?v=-kcVOxRNR9M
+
 #### Prerequisites
 
 To use this script, ensure that you have the following:
