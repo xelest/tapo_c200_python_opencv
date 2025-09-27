@@ -17,7 +17,7 @@ To use this script, ensure that you have the following:
 #### Usage
 1. Set up camera connection details:
 ```
-ip_address = '192.168.0.XX'  # Replace with the IP address of your camera
+ip_address = '192.168.1.XX'  # Replace with the IP address of your camera
 port = '554'                # Replace with the port number for your camera
 username = 'admin'          # Replace with the username for your camera
 password = 'password'       # Replace with the password for your camera
@@ -38,7 +38,7 @@ rtsp_url = url_640x480  # Set it to either `url_640x480` or `url_1080p` based on
 #### Example Configuration:
 ```
 # Set up camera connection details
-ip_address = '192.168.0.XX' # Replace with the IP address of your camera
+ip_address = '192.168.1.XX' # Replace with the IP address of your camera
 port = '554'          # Replace with the port number for your camera
 username = 'admin'    # Replace with the username for your camera
 password = 'password' # Replace with the password for your camera
